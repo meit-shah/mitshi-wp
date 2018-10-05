@@ -1,7 +1,7 @@
 <?php /* Template Name: about */ ?>
 <?php get_header(); ?>
 <div class="container">
-        <h1><b>ABOUT US</b></h1>
+        <h1><b>ABOUT US PAGE</b></h1>
         <hr>
         <p><b>“DEEP JYOTE PAINTS AND CHEMICAL CORPORATION”</b> since 1974 promoted by <b>“Kumar V. Shah” </b>was converted to <b>“DEEP JYOTE PAINTS AND CHEMICAL PVT LTD”</b>in 1985, which was then merged by a HON’BLE High court order with <b>“DERA”</b> brand in 1991.</p>
 
